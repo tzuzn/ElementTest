@@ -1,5 +1,5 @@
 {
-    "name": "Reiser Light theme 7",
+    "name": "Reiser Light theme 8",
     "is_dark": false,
     "colors": {
         "accent-color": "#0055a5",
@@ -9,8 +9,8 @@
         "sidebar-color": "#9b9ba0",
         "roomlist-background-color": "#F0F0F2",
         "roomlist-text-color": "#000000",
-        "roomlist-text-secondary-color": "#b9b9b9",
-        "roomlist-highlights-color": "#0055a5",
+        "roomlist-text-secondary-color": "#0055a5",
+        "roomlist-highlights-color": "#faba00",
         "roomlist-separator-color": "#F0F0F2",
 
         "timeline-background-color": "#FFFFFF",

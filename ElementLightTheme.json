@@ -1,9 +1,9 @@
 {
-    "name": "Reiser Light theme 6",
+    "name": "Reiser Light theme 7",
     "is_dark": false,
     "colors": {
         "accent-color": "#0055a5",
-        "primary-color": "#faba00 ",
+        "primary-color": "#faba00",
         "warning-color": "#faba00",
 
         "sidebar-color": "#9b9ba0",
